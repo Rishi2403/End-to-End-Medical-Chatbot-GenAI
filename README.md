@@ -49,13 +49,16 @@ Now,
 open up localhost:
 ```
 
+### ScreenShots:
+![alt text](<Screenshot 2025-06-28 135957.png>) ![alt text](<Screenshot 2025-06-28 135920.png>) ![alt text](<Screenshot 2025-06-28 135929.png>)
+
 
 ### Techstack Used:
 
 - Python
 - LangChain
 - Flask
-- GPT
+- Groq
 - Pinecone
 
 
